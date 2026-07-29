@@ -24,10 +24,13 @@ date:
   24 hours: true
 
 positions:
-  - Software engineer
+  - Software Engineer
+  - Software Developer
+  - Full Stack Engineer
+  - Machine Learning Engineer
 
 locations:
-  - Germany
+  - United States
 
 apply_once_at_company: true
 
